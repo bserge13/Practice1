@@ -4,3 +4,7 @@
 
 - Some of the more helpful commands for git would be
 
+1. Git status
+2. Git diff
+3. Git log 
+
